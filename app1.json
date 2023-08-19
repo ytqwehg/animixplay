@@ -1,20 +1,20 @@
 {
 	"ADS": {
 	
-		"native_type": "x",
-		"inter_type": "x",
-		"banner_type": "x",
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
  
  
    
-		"API_URL": "https://github.com/",
+		"API_URL": "https://albkino24.xyz/api/",
  
 		"ironsource_id": "11c7e1165",
 
 	 
-		"banner_applovin": "9f6993d1d7f4b334",
-		"native_applovin": "56743267898",
-		"interstitial_applovin": "af41d81400048f82",
+		"banner_applovin": "e9f27e5f65d6a2bd",
+		"native_applovin": "a3c70f74b6593e13",
+		"interstitial_applovin": "dfce4cabff6d99a1",
 
 
 		"interstitial_admob": "ca-app-pub-/1033173712",
